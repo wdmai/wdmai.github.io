@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wdmai",
+    "description": "",
+    "home_page_url": "https://wdmai.github.io",
+    "feed_url": "https://wdmai.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://wdmai.github.io/media/website/official-photo-new.jpeg",
+    "author": {
+        "name": "Wending Mai"
+    },
+    "items": [
+    ]
+}
