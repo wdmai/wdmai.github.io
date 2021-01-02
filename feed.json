@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "wdmai",
+    "title": "Wending Mai&#x27;s Academic Blog",
     "description": "",
     "home_page_url": "https://wdmai.github.io",
     "feed_url": "https://wdmai.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://wdmai.github.io/media/website/Capturemono.JPG",
     "author": {
         "name": "Wending Mai"
     },
