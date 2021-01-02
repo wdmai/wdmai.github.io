@@ -5,14 +5,14 @@
     "home_page_url": "https://wdmai.github.io",
     "feed_url": "https://wdmai.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://wdmai.github.io/media/website/official-photo-new.jpeg",
+    "icon": "https://wdmai.github.io/media/website/Capturemono.JPG",
     "author": {
         "name": "Wending Mai"
     },
     "items": [
         {
-            "id": "https://wdmai.github.io/test.html",
-            "url": "https://wdmai.github.io/test.html",
+            "id": "https://wdmai.github.io/test/",
+            "url": "https://wdmai.github.io/test/",
             "title": "test",
             "summary": "stes",
             "content_html": "<p>stes</p>\n",
