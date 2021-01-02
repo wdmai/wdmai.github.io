@@ -3,12 +3,38 @@
     <title>Wending Mai academic</title>
     <link href="https://wdmai.github.io/feed.xml" rel="self" />
     <link href="https://wdmai.github.io" />
-    <updated>2021-01-02T09:38:11-05:00</updated>
+    <updated>2021-01-02T11:10:18-05:00</updated>
     <author>
         <name>Wending Mai</name>
     </author>
     <id>https://wdmai.github.io</id>
 
+    <entry>
+        <title>fd</title>
+        <author>
+            <name>Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/fd/"/>
+        <id>https://wdmai.github.io/fd/</id>
+
+        <updated>2021-01-02T11:10:18-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<p><span style="text-decoration: line-through;">fasfsfs</span></p>
+
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1er1tni529">fdasdfds</a></li>
+</ul>
+</div>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://wdmai.github.io/media/posts/2/official-photo-new-2.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://wdmai.github.io/media/posts/2/responsive/official-photo-new-2-xs.jpeg 300w ,https://wdmai.github.io/media/posts/2/responsive/official-photo-new-2-sm.jpeg 480w ,https://wdmai.github.io/media/posts/2/responsive/official-photo-new-2-md.jpeg 768w"  alt="" width="600" height="600"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
