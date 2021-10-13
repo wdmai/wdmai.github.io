@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>RSS</title>
+    <link href="https://www.em-time.com/feed.xml" rel="self" />
+    <link href="https://www.em-time.com" />
+    <updated>2021-10-13T10:04:36-04:00</updated>
+    <author>
+        <name>Wending Mai</name>
+    </author>
+    <id>https://www.em-time.com</id>
+
+    <entry>
+        <title>Broadband transparent chiral mirrors: Design methodology and bandwidth analysis</title>
+        <author>
+            <name>Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/broadband-transparent-chiral-mirrors-design-methodology-and-bandwidth-analysis/"/>
+        <id>https://www.em-time.com/broadband-transparent-chiral-mirrors-design-methodology-and-bandwidth-analysis/</id>
+            <category term="Time-varying Electromagnetics"/>
+
+        <updated>2021-10-13T10:04:36-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Chiral mirrors are a class of metamaterials that reflect circularly polarized light of a certain helicity in a handedness-preserving manner, while absorbing circular polarization of the opposite handedness. However, most absorbing chiral mirrors operate only in a narrow frequency band, as limited by the causality&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Chiral mirrors are a class of metamaterials that reflect circularly polarized light of a certain helicity in a handedness-preserving manner, while absorbing circular polarization of the opposite handedness. However, most absorbing chiral mirrors operate only in a narrow frequency band, as limited by the causality principle. Instead of absorbing the undesired waveform, here we propose a transparent chiral mirror that allows undesired waves to pass through. In particular, the handedness-preserving band of the transparent chiral mirror is free of the causality limit, thus enabling broadband functionality. Furthermore, since electromagnetic waves outside the handedness-preserving band may transmit through the proposed chiral mirror, the reflected wave contains only circular polarization components of a certain handedness over a wide frequency range, which is favored in many applications. Moreover, the scheme is lossless and scalable. To realize the proposed transparent chiral mirror, we apply an array of helical microstructures in a two-dimensional square lattice. Traditionally, this kind of structure has been used as a circular polarizer but we apply it instead in a reflective mode. Our work provides a bandwidth analysis of chiral mirrors, and paves the way to new opportunities for creating broadband chiral metamaterials with handedness-preserving properties.</p>
+<p><a href="https://doi.org/10.1063/1.5025560">https://doi.org/10.1063/1.5025560</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>An Efficient and Stable 2-D/3-D Hybrid Discontinuous Galerkin Time-Domain Analysis with Adaptive Criterion for Arbitrarily Shaped Antipads in Dispersive Parallel-Plate Pair</title>
+        <author>
+            <name>Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/test-2/"/>
+        <id>https://www.em-time.com/test-2/</id>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2021-10-13T09:54:24-04:00</updated>
+            <summary>
+                <![CDATA[
+                    A hybrid 2-D and 3-D discontinuous Garlerkin time-domain (DGTD) method is proposed for transient analysis of multiple arbitrarily shaped antipads in a dispersive parallel-plate pair. In the proposed hybrid method, the domains where only the zeroth-order parallel-plate mode exists are modeled by the 2-D DGTD,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A hybrid 2-D and 3-D discontinuous Garlerkin time-domain (DGTD) method is proposed for transient analysis of multiple arbitrarily shaped antipads in a dispersive parallel-plate pair. In the proposed hybrid method, the domains where only the zeroth-order parallel-plate mode exists are modeled by the 2-D DGTD, and the remaining domains are modeled by the 3-D DGTD. Each element is independent with others, thus easily parallelizable. Because higher order modes will propagate in the parallel-plate pair, the spatial domain decomposition should be time-dependent. For domain decomposition criterion at time step t <sub>n</sub> , the electromagnetic field distribution at the previous time step t <sub>n-1</sub> is analyzed to identify the zeroth-order parallel mode domain. Compared with the classical static distance criterion, this new adaptive criterion makes the approximation error under control, thus enhancing the stability. The accuracy and flexibility of the hybrid method have been validated by comparison with commercial software. Its enhancement of efficiency and stability is also demonstrated.</p>
+<p><a href="Read more">10.1109/TMTT.2017.2690286</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
