@@ -3,7 +3,7 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2021-10-14T11:07:22-04:00</updated>
+    <updated>2021-10-14T11:10:07-04:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
@@ -14,13 +14,13 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity/"/>
-        <id>https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity/</id>
+        <link href="https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/"/>
+        <id>https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/</id>
             <category term="Metamaterials"/>
             <category term="Knot"/>
             <category term="Journal Paper"/>
 
-        <updated>2021-10-14T11:07:22-04:00</updated>
+        <updated>2021-10-14T11:10:07-04:00</updated>
             <summary>
                 <![CDATA[
                     Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral&hellip;
@@ -29,7 +29,6 @@
         <content type="html">
             <![CDATA[
                 <p>Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting strong optical activity.</p>
-<p> </p>
 <p><a href="https://doi.org/10.1002/adom.202000948" target="_blank" rel="noopener noreferrer">Read more</a></p>
             ]]>
         </content>
