@@ -3,12 +3,37 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2021-10-14T10:55:34-04:00</updated>
+    <updated>2021-10-14T11:03:20-04:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
     <id>https://www.em-time.com</id>
 
+    <entry>
+        <title>A knotted metamolecule with axisymmetric strong optical activity</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity/"/>
+        <id>https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Metamaterials"/>
+            <category term="Journal Paper"/>
+
+        <updated>2021-10-14T11:03:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting strong optical activity.</p>
+<p> </p>
+<p><a href="https://doi.org/10.1002/adom.202000948" target="_blank" rel="noopener noreferrer">Read more</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Conductive mixed-order generalized dispersion model for noble metals in the optical regime</title>
         <author>
@@ -245,30 +270,6 @@
 <p> </p>
 <p><a href="https://ieeexplore.ieee.org/document/9219505" target="_blank" rel="noopener noreferrer">Read more</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Prism-based Discontinuous Galerkin Time Domain Analysis of Frequency Selective Surfaces in Lossy Water</title>
-        <author>
-            <name>Dr. Wending Mai</name>
-        </author>
-        <link href="https://www.em-time.com/prism-based-discontinuous-galerkin-time-domain-analysis-of-frequency-selective-surfaces-in-lossy-water/"/>
-        <id>https://www.em-time.com/prism-based-discontinuous-galerkin-time-domain-analysis-of-frequency-selective-surfaces-in-lossy-water/</id>
-            <category term="Conference Paper"/>
-            <category term="Computational Electromagnetics"/>
-
-        <updated>2021-10-14T10:38:50-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Planar periodic structures are widely utilized in microwave applications. The prism-based Discontinuous Galerkin time domain (DGTD) method is optimal to cope with the modeling challenges associated with these planar structures. In this work, we modified the prism based DGTD to take lossy materials into account.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Planar periodic structures are widely utilized in microwave applications. The prism-based Discontinuous Galerkin time domain (DGTD) method is optimal to cope with the modeling challenges associated with these planar structures. In this work, we modified the prism based DGTD to take lossy materials into account. A ring-shaped frequency selective surface (FSS) is studied as a representative numerical example. When submerged into water, the operating frequency of the FSS is lowered dramatically. We test the algorithm with distilled and tap water of different conductivity. Results of both examples compare well with references of commercial software, which validates the accuracy of the modified DGTD algorithm.</p>
-<p> </p>
-<p><a href="https://ieeexplore.ieee.org/document/9330257" target="_blank" rel="noopener noreferrer">Read more</a></p>
             ]]>
         </content>
     </entry>
