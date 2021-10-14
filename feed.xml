@@ -3,12 +3,68 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2021-10-14T11:10:07-04:00</updated>
+    <updated>2021-10-14T15:33:01-04:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
     <id>https://www.em-time.com</id>
 
+    <entry>
+        <title>Publication List</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/publication-list/"/>
+        <id>https://www.em-time.com/publication-list/</id>
+
+        <updated>2021-10-14T15:33:01-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Journal papers: Mai, W., J. Hu, P. Li, and H. Zhao. “An Efficient and Stable 2-D/3-D Hybrid Discontinuous Galerkin Time-Domain Analysis with Adaptive Criterion for Arbitrarily Shaped Antipads in Dispersive Parallel-Plate Pair.” IEEE Transactions on Microwave Theory and Techniques 65, no. 10 (October 2017): 3671–81. https://doi.org/10.1109/TMTT.2017.2690286. Mai, W., P. Li, C. G. Li, M. Jiang, W. Hao, L. Jiang, and J. Hu. “A Straightforward Updating Criterion for 2-D/3-D Hybrid Discontinuous Galerkin Time-Domain Method Controlling Comparative Error.” IEEE Transactions on Microwave Theory and Techniques 66, no. 4 (April 2018): 1713–22. https://doi.org/10.1109/TMTT.2018.2801818. Mai, Wending, Sawyer D. Campbell, and Douglas H. Werner. “Conductive Mixed-Order Generalized Dispersion Model for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="profile_cvEntry">
+<div class="profile_cvText">
+<div class="csl-bib-body">
+<h5>Journal papers:</h5>
+<div class="csl-entry">Mai, W., J. Hu, P. Li, and H. Zhao. “An Efficient and Stable 2-D/3-D Hybrid Discontinuous Galerkin Time-Domain Analysis with Adaptive Criterion for Arbitrarily Shaped Antipads in Dispersive Parallel-Plate Pair.” <i>IEEE Transactions on Microwave Theory and Techniques</i> 65, no. 10 (October 2017): 3671–81. <a href="https://doi.org/10.1109/TMTT.2017.2690286">https://doi.org/10.1109/TMTT.2017.2690286</a>.</div>
+<div class="csl-entry">Mai, W., P. Li, C. G. Li, M. Jiang, W. Hao, L. Jiang, and J. Hu. “A Straightforward Updating Criterion for 2-D/3-D Hybrid Discontinuous Galerkin Time-Domain Method Controlling Comparative Error.” <i>IEEE Transactions on Microwave Theory and Techniques</i> 66, no. 4 (April 2018): 1713–22. <a href="https://doi.org/10.1109/TMTT.2018.2801818">https://doi.org/10.1109/TMTT.2018.2801818</a>.</div>
+<div class="csl-entry">Mai, Wending, Sawyer D. Campbell, and Douglas H. Werner. “Conductive Mixed-Order Generalized Dispersion Model for Noble Metals in the Optical Regime.” <i>Optics Express</i> 29, no. 19 (September 13, 2021): 30520–31. <a href="https://doi.org/10.1364/OE.435297">https://doi.org/10.1364/OE.435297</a>.</div>
+<div class="csl-entry">Mai, Wending, Sawyer D. Campbell, Eric B. Whiting, Lei Kang, Pingjuan L. Werner, Yifan Chen, and Douglas H. Werner. “Prismatic Discontinuous Galerkin Time Domain Method with an Integrated Generalized Dispersion Model for Efficient Optical Metasurface Analysis.” <i>Optical Materials Express</i> 10, no. 10 (October 1, 2020): 2542–59. <a href="https://doi.org/10.1364/OME.399414">https://doi.org/10.1364/OME.399414</a>.</div>
+<div class="csl-entry">Mai, Wending, Lei Kang, Ronald Jenkins, Danny Zhu, Chunxu Mao, Pingjuan L. Werner, Yifan Chen, and Douglas H. Werner. “A Knotted Metamolecule with Axisymmetric Strong Optical Activity.” <i>Advanced Optical Materials</i> 8, no. 23 (2020): 2000948. <a href="https://doi.org/10.1002/adom.202000948">https://doi.org/10.1002/adom.202000948</a>.</div>
+<div class="csl-entry">Mai, Wending, Ping Li, Huaguang Bao, Xianjin Li, Lijun Jiang, Jun Hu, and Douglas H. Werner. “Prism-Based DGTD with a Simplified Periodic Boundary Condition to Analyze FSS with D2n Symmetry in a Rectangular Array under Normal Incidence.” <i>IEEE Antennas and Wireless Propagation Letters</i> 18, no. 4 (April 2019): 771–75. <a href="https://doi.org/10.1109/LAWP.2019.2902340">https://doi.org/10.1109/LAWP.2019.2902340</a>.</div>
+<div class="csl-entry">Mai, Wending, Jingwei Xu, and Douglas H. Werner. “Antireflection Temporal Coatings: Comment.” <i>Optica</i> 8, no. 6 (June 20, 2021): 824–25. <a href="https://doi.org/10.1364/OPTICA.410990">https://doi.org/10.1364/OPTICA.410990</a>.</div>
+<div class="csl-entry">Mai, Wending, Benjamin Zerbe, and Douglas Werner. “Discontinuous Galerkin Time Domain Method with Dispersive Modified Debye Model and Its Application to the Analysis of Optical Frequency Selective Surfaces.” <i>Applied Computational Electromagnetics Society</i> 36, no. 1 (February 27, 2021): 27–34. <a href="https://doi.org/10.47037/2020.ACES.J.360104">https://doi.org/10.47037/2020.ACES.J.360104</a>.</div>
+<div class="csl-entry">Mai, Wending, Danny Zhu, Zheng Gong, Xiaoyou Lin, Yifan Chen, Jun Hu, and Douglas H. Werner. “Broadband Transparent Chiral Mirrors: Design Methodology and Bandwidth Analysis.” <i>AIP Advances</i> 9, no. 4 (April 1, 2019): 045305. <a href="https://doi.org/10.1063/1.5025560">https://doi.org/10.1063/1.5025560</a>.</div>
+<div class="csl-entry">Xu, Jingwei, Wending Mai, and Douglas H. Werner. “Complete Polarization Conversion Using Anisotropic Temporal Slabs.” <i>Optics Letters</i> 46, no. 6 (March 15, 2021): 1373–76. <a href="https://doi.org/10.1364/OL.415757">https://doi.org/10.1364/OL.415757</a>.</div>
+</div>
+</div>
+</div>
+<div class="profile_cvEntry">
+<h5 class="profile_cvHead">Conference Papers:</h5>
+<div class="profile_cvText">
+<div class="csl-bib-body">
+<div class="csl-entry">Cao, Ying S., Xu Wang, Wending Mai, Yansheng Wang, Lijun Jiang, Albert E. Ruehli, Shiquan He, et al. “Characterizing EMI Radiation Physics for Edge-and Broad-Side Coupled Connectors.” In <i>2017 IEEE International Symposium on Electromagnetic Compatibility Signal/Power Integrity (EMCSI)</i>, 766–71, 2017. <a href="https://doi.org/10.1109/ISEMC.2017.8077970">https://doi.org/10.1109/ISEMC.2017.8077970</a>.</div>
+<div class="csl-entry">Ding, Y., Y. Chen, W. Mai, and J. Hu. “An Improved Simultaneous Stage-Wise Weak Orthogonal Matching Pursuit Algorithm for Microwave Brain Stroke Imaging.” In <i>2020 IEEE International Conference on Computational Electromagnetics (ICCEM)</i>, 85–87, 2020. <a href="https://doi.org/10.1109/ICCEM47450.2020.9219505">https://doi.org/10.1109/ICCEM47450.2020.9219505</a>.</div>
+<div class="csl-entry">Mai, W., W. Hao, C. Li, J. Hu, and P. Li. “2-D/3-D Hybrid DGTD Method with Adaptive Criterion Controlling 2-D Simplification Error.” In <i>2018 IEEE International Conference on Computational Electromagnetics (ICCEM)</i>, 1–2, 2018. <a href="https://doi.org/10.1109/COMPEM.2018.8496560">https://doi.org/10.1109/COMPEM.2018.8496560</a>.</div>
+<div class="csl-entry">Mai, Wending, Sawyer D. Campbell, Douglas H. Werner, Yifan Chen, and Huaguang Bao. “Prism-Based Discontinuous Galerkin Time Domain Analysis of Frequency Selective Surfaces in Lossy Water.” In <i>2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting</i>, 1077–78, 2020. <a href="https://doi.org/10.1109/IEEECONF35879.2020.9330257">https://doi.org/10.1109/IEEECONF35879.2020.9330257</a>.</div>
+<div class="csl-entry">Mai, Wending, Yifan Chen, and Xiaoyou Lin. “Early Detection of Neurological Degenerative Diseases Based on the Protein Chirality Detection with Microwaves.” In <i>2020 IEEE Asia-Pacific Microwave Conference (APMC)</i>, 965–67, 2020. <a href="https://doi.org/10.1109/APMC47863.2020.9331591">https://doi.org/10.1109/APMC47863.2020.9331591</a>.</div>
+<div class="csl-entry">Mai, Wending, Yongpin Chen, Moyu Deng, Jingxian Chen, and Jun Hu. “A Predictive Criterion for 2D/3D DGTD Method Based on the CFL Condition.” In <i>2019 IEEE International Conference on Computational Electromagnetics (ICCEM)</i>, 1–2, 2019. <a href="https://doi.org/10.1109/COMPEM.2019.8778997">https://doi.org/10.1109/COMPEM.2019.8778997</a>.</div>
+<div class="csl-entry">Mai, Wending, and Jun Hu. “An Efficient 2D/3D Hybrid DGTD Transient Analysis for Arbitrarily Shaped Anti-Pads in Power-Ground Plate-Pair.” In <i>2017 International Applied Computational Electromagnetics Society Symposium - Italy (ACES)</i>, 1–2, 2017. <a href="https://doi.org/10.23919/ROPACES.2017.7916279">https://doi.org/10.23919/ROPACES.2017.7916279</a>.</div>
+<div class="csl-entry">Mai, Wending, Jingwei Xu, and Douglas H. Werner. “Avoiding the Time-Static Simplification in the Simulation of Time-Varying Materials.” In <i>2021 International Applied Computational Electromagnetics Society Symposium (ACES)</i>, 1–3, 2021. <a href="https://doi.org/10.1109/ACES53325.2021.00029">https://doi.org/10.1109/ACES53325.2021.00029</a>.</div>
+<div class="csl-entry">Wang, B., Q. Wang, A. Liao, L. Chen, and W. Mai. “Design of a FSS Filter with Shorting Stubs for Compact E-Plane Duplexer Application.” In <i>2009 3rd IEEE International Symposium on Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications</i>, 1040–42, 2009. <a href="https://doi.org/10.1109/MAPE.2009.5355875">https://doi.org/10.1109/MAPE.2009.5355875</a>.</div>
+<div class="csl-entry">买文鼎, 王清源, 廖翱, 陈立峰, and 张先荣. “一种小型信号增益放大天线的设计.” Accessed January 25, 2019. <a href="http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZDWB200905004174.htm">http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZDWB200905004174.htm</a>.</div>
+<div class="csl-entry">买文鼎, 王清源, 张先荣, 廖翱, and 陈立峰. “用CST设计直接耦合介质滤波器.” Accessed January 25, 2019. <a href="http://www.wanfangdata.com.cn/details/detail.do?_type=conference&amp;id=7110994">http://www.wanfangdata.com.cn/details/detail.do?_type=conference&amp;id=7110994</a>.</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p><a href="https://www.zotero.org/maiwending/cv" target="_blank" rel="noopener noreferrer">Find the most updated list here:</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A knotted metamolecule with axisymmetric strong optical activity</title>
         <author>
@@ -17,19 +73,20 @@
         <link href="https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/"/>
         <id>https://www.em-time.com/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/</id>
             <category term="Metamaterials"/>
-            <category term="Knot"/>
+            <category term="Knot Electromagnetics"/>
             <category term="Journal Paper"/>
 
-        <updated>2021-10-14T11:10:07-04:00</updated>
+        <updated>2021-10-14T15:00:55-04:00</updated>
             <summary>
                 <![CDATA[
-                    Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral&hellip;
+                    Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting strong optical activity.</p>
 <p><a href="https://doi.org/10.1002/adom.202000948" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai,* Lei Kang, Ronald Jenkins, Danny Zhu, Chunxu Mao, Pingjuan L. Werner, Yifan Chen, and Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -44,17 +101,17 @@
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:55:34-04:00</updated>
+        <updated>2021-10-14T15:01:55-04:00</updated>
             <summary>
                 <![CDATA[
-                    Various dispersion models can be expressed as special cases of the Generalized Dispersion Model (GDM), which is composed of a series of Pad&amp;#x00E9; polynomials. While important for its broad applicability, we found that some materials with Drude dispersive terms can be accurately modeled by mixing&hellip;
+                    Various dispersion models can be expressed as special cases of the Generalized Dispersion Model (GDM), which is composed of a series of Pade polynomials. While important for its broad applicability, we found that some materials with Drude dispersive terms can be accurately modeled by mixing a 1st order Pade polynomial with an extra conductivity term. This conductivity term can be separated from the auxiliary differential equation (ADE). Therefore, the proposed mixed-order model can achieve the same accuracy with fewer unknowns, thus realizing higher computational efficiency and lower memory consumption. For examples, we derive the model parameters and corresponding numerical errors&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Various dispersion models can be expressed as special cases of the Generalized Dispersion Model (GDM), which is composed of a series of Pad&amp;#x00E9; polynomials. While important for its broad applicability, we found that some materials with Drude dispersive terms can be accurately modeled by mixing a 1st order Pad&amp;#x00E9; polynomial with an extra conductivity term. This conductivity term can be separated from the auxiliary differential equation (ADE). Therefore, the proposed mixed-order model can achieve the same accuracy with fewer unknowns, thus realizing higher computational efficiency and lower memory consumption. For examples, we derive the model parameters and corresponding numerical errors for noble metals including Au, Ag, and Al in the optical regime. Finally, the proposed model&amp;#x2019;s efficiency improvements are validated through implementation within a Discontinuous Galerkin Time Domain (DGTD) framework. The proposed model can achieve up to 12.5&amp;#x0025; efficiency improvement in theory compared to the conventional GDM with the same accuracy. A numerical example validates that, in practice, 9&amp;#x0025; memory reduction and 11&amp;#x0025; acceleration can be realized.</p>
-<p> </p>
+                <p>Various dispersion models can be expressed as special cases of the Generalized Dispersion Model (GDM), which is composed of a series of Pade polynomials. While important for its broad applicability, we found that some materials with Drude dispersive terms can be accurately modeled by mixing a 1st order Pade polynomial with an extra conductivity term. This conductivity term can be separated from the auxiliary differential equation (ADE). Therefore, the proposed mixed-order model can achieve the same accuracy with fewer unknowns, thus realizing higher computational efficiency and lower memory consumption. For examples, we derive the model parameters and corresponding numerical errors for noble metals including Au, Ag, and Al in the optical regime. Finally, the proposed model&amp;#x2019;s efficiency improvements are validated through implementation within a Discontinuous Galerkin Time Domain (DGTD) framework. The proposed model can achieve up to 12.5&amp;#x0025; efficiency improvement in theory compared to the conventional GDM with the same accuracy. A numerical example validates that, in practice, 9&amp;#x0025; memory reduction and 11&amp;#x0025; acceleration can be realized.</p>
 <p><a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-29-19-30520" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>WENDING MAI,* SAWYER D. CAMPBELL, AND DOUGLAS H. WERNER</pre>
             ]]>
         </content>
     </entry>
@@ -69,17 +126,17 @@
             <category term="Conference Paper"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:51:14-04:00</updated>
+        <updated>2021-10-14T15:02:41-04:00</updated>
             <summary>
                 <![CDATA[
-                    Materials with time-varying permittivity are an emerging research area in the electromagnetics and optics communities. From Maxwell's equations, the electric displacement (D) must be continuous in the time domain. However, this requirement is not satisfied for some conventional time domain solvers, which were developed for&hellip;
+                    Materials with time-varying permittivity are an emerging research area in the electromagnetics and optics communities. From Maxwell's equations, the electric displacement (D) must be continuous in the time domain. However, this requirement is not satisfied for some conventional time domain solvers, which were developed for time-invariant simulations. Here we briefly review several commercial and open-source software packages. Some of them employ a so-called time-static simplification, which works well for time-invariant materials but will fail for time-varying materials. Read more Wending Mai*, Jingwei Xu, Douglas H. Werner
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Materials with time-varying permittivity are an emerging research area in the electromagnetics and optics communities. From Maxwell's equations, the electric displacement (D) must be continuous in the time domain. However, this requirement is not satisfied for some conventional time domain solvers, which were developed for time-invariant simulations. Here we briefly review several commercial and open-source software packages. Some of them employ a so-called time-static simplification, which works well for time-invariant materials but will fail for time-varying materials.</p>
-<p> </p>
 <p><a href="https://doi.org/10.1109/ACES53325.2021.00029" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai*, Jingwei Xu, Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -93,17 +150,17 @@
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
 
-        <updated>2021-10-14T10:50:07-04:00</updated>
+        <updated>2021-10-14T15:03:09-04:00</updated>
             <summary>
                 <![CDATA[
-                    The quarter-wavelength matching technique is widely used because it minimizes the reflection while it maximizes the transmission. The recently introduced antireflection temporal coatings (ATCs) [Optica7, 323 (2020)10.1364/OPTICA.381175] have been considered as its temporal analog. However, our study shows that by introducing an ATC, not only&hellip;
+                    The quarter-wavelength matching technique is widely used because it minimizes the reflection while it maximizes the transmission. The recently introduced antireflection temporal coatings (ATCs) [Optica7, 323 (2020)10.1364/OPTICA.381175] have been considered as its temporal analog. However, our study shows that by introducing an ATC, not only will the reflection be reduced but also the transmission. This phenomenon is opposite its spatial counterpart, which indicates that ATCs are more than simply a temporal dual of quarter-wavelength matching. This is a direct consequence of the different physical phenomena that are manifested in the temporal and spatial domains. Read more Wending Mai,* Jingwei Xu,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>The quarter-wavelength matching technique is widely used because it minimizes the reflection while it maximizes the transmission. The recently introduced antireflection temporal coatings (ATCs) [Optica7, 323 (2020)10.1364/OPTICA.381175] have been considered as its temporal analog. However, our study shows that by introducing an ATC, not only will the reflection be reduced but also the transmission. This phenomenon is opposite its spatial counterpart, which indicates that ATCs are more than simply a temporal dual of quarter-wavelength matching. This is a direct consequence of the different physical phenomena that are manifested in the temporal and spatial domains.</p>
-<p> </p>
 <p><a href="https://www.osapublishing.org/optica/abstract.cfm?uri=optica-8-6-824" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai,* Jingwei Xu, AND Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -117,17 +174,17 @@
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
 
-        <updated>2021-10-14T10:49:23-04:00</updated>
+        <updated>2021-10-14T15:03:34-04:00</updated>
             <summary>
                 <![CDATA[
-                    It is well known that control over the polarization of electromagnetic waves can be achieved by utilizing artificial anisotropic media such as metamaterials. However, most of the related research has been focused on time-invariant systems. Inspired by the concept of temporal boundaries, we propose a&hellip;
+                    It is well known that control over the polarization of electromagnetic waves can be achieved by utilizing artificial anisotropic media such as metamaterials. However, most of the related research has been focused on time-invariant systems. Inspired by the concept of temporal boundaries, we propose a method to realize polarization conversion in real time by employing time-variant materials, whose permittivity or permeability switches between isotropic and anisotropic values. The criteria for complete polarization conversion are studied for several polarization angles, both analytically and numerically. Read more Jingwei Xu,* Wending Mai, AND Douglas H. Werner
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>It is well known that control over the polarization of electromagnetic waves can be achieved by utilizing artificial anisotropic media such as metamaterials. However, most of the related research has been focused on time-invariant systems. Inspired by the concept of temporal boundaries, we propose a method to realize polarization conversion in real time by employing time-variant materials, whose permittivity or permeability switches between isotropic and anisotropic values. The criteria for complete polarization conversion are studied for several polarization angles, both analytically and numerically.</p>
-<p> </p>
 <p><a href="https://doi.org/10.1364/OL.415757" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Jingwei Xu,* Wending Mai, AND Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -141,17 +198,17 @@
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:45:45-04:00</updated>
+        <updated>2021-10-14T15:04:10-04:00</updated>
             <summary>
                 <![CDATA[
-                    We develop a discontinuous Galerkin time domain (DGTD) algorithm with an experimentally validated modified Debye model (MDM) to take metal dispersion into consideration. The MDM equation is coupled with Maxwell’s equations and solved together through the auxiliary differential equation (ADE) method. A Runge-Kutta time-stepping scheme&hellip;
+                    We develop a discontinuous Galerkin time domain (DGTD) algorithm with an experimentally validated modified Debye model (MDM) to take metal dispersion into consideration. The MDM equation is coupled with Maxwell’s equations and solved together through the auxiliary differential equation (ADE) method. A Runge-Kutta time-stepping scheme is proposed to update the semi-discrete transformed Maxwell’s equations and ADEs with high order accuracy. Then we employ the proposed algorithm to analyze an infinite doubly periodic frequency selective surface (FSS) operating in the optical regime that exhibits transmission enhancement due to the surface plasmatic effect. The accuracy and the efficiency enhancements are validated through&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>We develop a discontinuous Galerkin time domain (DGTD) algorithm with an experimentally validated modified Debye model (MDM) to take metal dispersion into consideration. The MDM equation is coupled with Maxwell’s equations and solved together through the auxiliary differential equation (ADE) method. A Runge-Kutta time-stepping scheme is proposed to update the semi-discrete transformed Maxwell’s equations and ADEs with high order accuracy. Then we employ the proposed algorithm to analyze an infinite doubly periodic frequency selective surface (FSS) operating in the optical regime that exhibits transmission enhancement due to the surface plasmatic effect. The accuracy and the efficiency enhancements are validated through a comparison with commercial simulation software. This work represents the first integration of MDM with DGTD, which enables the DGTD algorithm to efficiently analyze metallic structures in the optical regime.</p>
-<p> </p>
 <p><a href="https://aces-society.org/search.php?vol=36&amp;no=1&amp;type=2" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Benjamin Zerbe, and Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -165,22 +222,22 @@
             <category term="Conference Paper"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:44:23-04:00</updated>
+        <updated>2021-10-14T15:04:43-04:00</updated>
             <summary>
                 <![CDATA[
-                    We proposed a new methodology to detect the neurological degenerative diseases in the early stage. These neurological degenerative diseases often occur along with some mark proteins. Instilled by golden nanoparticles, these protein cells can demonstrate optical activity because of their helical structure. In order to&hellip;
+                    We proposed a new methodology to detect the neurological degenerative diseases in the early stage. These neurological degenerative diseases often occur along with some mark proteins. Instilled by golden nanoparticles, these protein cells can demonstrate optical activity because of their helical structure. In order to detect these mark proteins, we developed a numerical method to simulate the electromagnetic response upon chiral (bi-isotropic) material. The chiral proteins in human head can therefore be detected. The primitive simulation results suggest that the proposed method would be capable of carrying out in vivo detection of neurological degenerative disease using microwaves. Read more Wending&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>We proposed a new methodology to detect the neurological degenerative diseases in the early stage. These neurological degenerative diseases often occur along with some mark proteins. Instilled by golden nanoparticles, these protein cells can demonstrate optical activity because of their helical structure. In order to detect these mark proteins, we developed a numerical method to simulate the electromagnetic response upon chiral (bi-isotropic) material. The chiral proteins in human head can therefore be detected. The primitive simulation results suggest that the proposed method would be capable of carrying out in vivo detection of neurological degenerative disease using microwaves.</p>
-<p> </p>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/9331591/" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Yifan Chen, Xiaoyou Lin</pre>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>prism-DGTD with GDM to analyze pixelized metasurfaces</title>
+        <title>Prism-DGTD with GDM to analyze pixelized metasurfaces</title>
         <author>
             <name>Dr. Wending Mai</name>
         </author>
@@ -190,15 +247,15 @@
             <category term="Metamaterials"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:43:12-04:00</updated>
+        <updated>2021-10-14T15:05:27-04:00</updated>
             <summary>
                 <![CDATA[
-                    rism DGTD simulation toolkit with GDM for pixelized metasurface This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces. How to use it: Open "runme.m" in MATLAB. Modify the time span and the Geo&hellip;
+                    Prism DGTD simulation toolkit with GDM for pixelized metasurface This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces. How to use it: Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>rism DGTD simulation toolkit with GDM for pixelized metasurface</h1>
+                <h1>Prism DGTD simulation toolkit with GDM for pixelized metasurface</h1>
 <h2>This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces.</h2>
 <h2>How to use it:</h2>
 <p>Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index number ascends along x- and y- axes, as depicted in below figures. <img loading="lazy" src="https://github.com/maiwending/pDGTD_GDM/blob/master/readme_fig/1.png" data-is-external-image="true"  alt="image"></p>
@@ -217,8 +274,8 @@
 <h2>Contact:</h2>
 <p>The webpage of our lab: <a href="http://cearl.ee.psu.edu/">http://cearl.ee.psu.edu/</a></p>
 <p>The functionality of this toolkit is currently limited. If you find any bug, or feel interested in cooperation, please contact me at: <a href="mailto:wdm@ieee.org">wdm@ieee.org</a>.</p>
-<p> </p>
 <p><a href="https://zenodo.org/record/4391329#.YWhByBrMKM9" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
@@ -233,42 +290,19 @@
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
 
-        <updated>2021-10-14T10:41:40-04:00</updated>
+        <updated>2021-10-14T15:07:18-04:00</updated>
             <summary>
                 <![CDATA[
-                    Planar photonics technology is expected to facilitate new physics and enhanced functionality for a new generation of disruptive optical devices. To analyze such planar optical metasurfaces efficiently, we propose a prismatic discontinuous Galerkin time domain (DGTD) method with a generalized dispersive material (GDM) model to&hellip;
+                    Planar photonics technology is expected to facilitate new physics and enhanced functionality for a new generation of disruptive optical devices. To analyze such planar optical metasurfaces efficiently, we propose a prismatic discontinuous Galerkin time domain (DGTD) method with a generalized dispersive material (GDM) model to conduct the full-wave electromagnetic simulation of planar photonic nanostructures. Prism-based DGTD allows for triangular prismatic space discretization, which is optimal for planar geometries. In order to achieve an accurate universal model for arbitrary dispersive materials, the GDM model is integrated within the prism-based DGTD. As an advantage of prismatic spatial discretization, the prism-based DGTD with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Planar photonics technology is expected to facilitate new physics and enhanced functionality for a new generation of disruptive optical devices. To analyze such planar optical metasurfaces efficiently, we propose a prismatic discontinuous Galerkin time domain (DGTD) method with a generalized dispersive material (GDM) model to conduct the full-wave electromagnetic simulation of planar photonic nanostructures. Prism-based DGTD allows for triangular prismatic space discretization, which is optimal for planar geometries. In order to achieve an accurate universal model for arbitrary dispersive materials, the GDM model is integrated within the prism-based DGTD. As an advantage of prismatic spatial discretization, the prism-based DGTD with GDM has fewer elements than conventional tetrahedral methods, which in turn brings higher computational efficiency. Finally, the accuracy, convergence behavior, and efficiency improvements of the proposed algorithm is validated by several numerical examples. A simulation toolkit with the proposed algorithm has been released online, enabling users to efficiently analyze metasurfaces with customized pixel patterns.</p>
+<p><a href="https://doi.org/10.1364/OME.399414" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>WENDING MAI,* SAWYER D. CAMPBELL, ERIC B. WHITING, LEI KANG, PINGJUAN L. WERNER, YIFAN CHEN, AND DOUGLAS H. WERNER</pre>
 <p> </p>
 <p><a href="https://doi.org/10.1364/OME.399414" target="_blank" rel="noopener noreferrer">Read more</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>An Improved Simultaneous Stage-wise Weak Orthogonal Matching Pursuit Algorithm for Microwave Brain Stroke Imaging</title>
-        <author>
-            <name>Dr. Wending Mai</name>
-        </author>
-        <link href="https://www.em-time.com/an-improved-simultaneous-stage-wise-weak-orthogonal-matching-pursuit-algorithm-for-microwave-brain-stroke-imaging/"/>
-        <id>https://www.em-time.com/an-improved-simultaneous-stage-wise-weak-orthogonal-matching-pursuit-algorithm-for-microwave-brain-stroke-imaging/</id>
-            <category term="Conference Paper"/>
-            <category term="Computational Electromagnetics"/>
-
-        <updated>2021-10-14T10:40:28-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Stroke is a dangerous disease with a high recurrence rate. Therefore, postoperative patients need timely monitoring of stroke conditions in their rehabilitation stage for early treatment. Recent studies in biomedical imaging have shown that strokes produce variations in the electric permittivity of brain tissues, which&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Stroke is a dangerous disease with a high recurrence rate. Therefore, postoperative patients need timely monitoring of stroke conditions in their rehabilitation stage for early treatment. Recent studies in biomedical imaging have shown that strokes produce variations in the electric permittivity of brain tissues, which can be detected by microwave imaging techniques. Assuming that we have obtained the image of electromagnetic parameters in previous treatment, we can use differential imaging to detect the bleeding points when stroke recurs. However, the computational cost of traditional methods could be prohibitively large, as the bleeding points are small in the early stages of recurrence and the data of scatterers are sparse. Compressive sensing is a potential candidate for efficient microwave imaging algorithms. In this paper, we propose a new method for microwave differential imaging. The difference of the scattering field is related to sparse unknown scatterers by the Green's function of the inhomogeneous medium. An improved simultaneous stagewise weak orthogonal matching pursuit algorithm is then proposed to solve the problem in the framework of compressive sensing. The numerical results validate the accuracy and efficiency of the proposed method.</p>
-<p> </p>
-<p><a href="https://ieeexplore.ieee.org/document/9219505" target="_blank" rel="noopener noreferrer">Read more</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>
