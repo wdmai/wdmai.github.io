@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>RSS</title>
+    <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
     <updated>2021-10-13T10:04:36-04:00</updated>
@@ -21,7 +21,7 @@
         <updated>2021-10-13T10:04:36-04:00</updated>
             <summary>
                 <![CDATA[
-                    Chiral mirrors are a class of metamaterials that reflect circularly polarized light of a certain helicity in a handedness-preserving manner, while absorbing circular polarization of the opposite handedness. However, most absorbing chiral mirrors operate only in a narrow frequency band, as limited by the causality&hellip;
+                    Chiral mirrors are a class of metamaterials that reflect circularly polarized light of a certain helicity in a handedness-preserving manner, while absorbing circular&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -44,7 +44,7 @@
         <updated>2021-10-13T09:54:24-04:00</updated>
             <summary>
                 <![CDATA[
-                    A hybrid 2-D and 3-D discontinuous Garlerkin time-domain (DGTD) method is proposed for transient analysis of multiple arbitrarily shaped antipads in a dispersive parallel-plate pair. In the proposed hybrid method, the domains where only the zeroth-order parallel-plate mode exists are modeled by the 2-D DGTD,&hellip;
+                    A hybrid 2-D and 3-D discontinuous Garlerkin time-domain (DGTD) method is proposed for transient analysis of multiple arbitrarily shaped antipads in a dispersive&hellip;
                 ]]>
             </summary>
         <content type="html">
