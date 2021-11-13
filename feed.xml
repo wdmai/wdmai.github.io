@@ -3,12 +3,34 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2021-10-14T15:08:06-04:00</updated>
+    <updated>2021-11-13T15:12:13-05:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
     <id>https://www.em-time.com</id>
 
+    <entry>
+        <title>Analytical transient analysis of temporal boundary value problems using the d’Alembert formula</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula-2/"/>
+        <id>https://www.em-time.com/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula-2/</id>
+
+        <updated>2021-11-13T15:12:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Temporal boundary value problems (TBVPs) provide the foundation for analyzing electromagnetic wave propagation in time-varying media. In this paper, we point out that TBVPs fall into the category of unbounded initial value problems, which have traveling wave solutions. By dividing the entire time frame into several subdomains and applying the d’Alembert formula, the transient expressions for waves propagating through temporal boundaries can be evaluated analytically. Moreover, unlike their spatial analogs, TBVPs are subject to causality. Therefore, the resulting analytical transient solutions resulting from the d’Alembert formula are unique to temporal systems. Read more...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Temporal boundary value problems (TBVPs) provide the foundation for analyzing electromagnetic wave propagation in time-varying media. In this paper, we point out that TBVPs fall into the category of unbounded initial value problems, which have traveling wave solutions. By dividing the entire time frame into several subdomains and applying the d’Alembert formula, the transient expressions for waves propagating through temporal boundaries can be evaluated analytically. Moreover, unlike their spatial analogs, TBVPs are subject to causality. Therefore, the resulting analytical transient solutions resulting from the d’Alembert formula are unique to temporal systems. </p>
+<p> </p>
+<p><a href="https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-46-22-5727&amp;id=464827" target="_blank" rel="noopener noreferrer">Read more...</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A knotted metamolecule with axisymmetric strong optical activity</title>
         <author>
@@ -247,31 +269,6 @@
 <pre>WENDING MAI,* SAWYER D. CAMPBELL, ERIC B. WHITING, LEI KANG, PINGJUAN L. WERNER, YIFAN CHEN, AND DOUGLAS H. WERNER</pre>
 <p> </p>
 <p><a href="https://doi.org/10.1364/OME.399414" target="_blank" rel="noopener noreferrer">Read more</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>An Improved Simultaneous Stage-wise Weak Orthogonal Matching Pursuit Algorithm for Microwave Brain Stroke Imaging</title>
-        <author>
-            <name>Dr. Wending Mai</name>
-        </author>
-        <link href="https://www.em-time.com/an-improved-simultaneous-stage-wise-weak-orthogonal-matching-pursuit-algorithm-for-microwave-brain-stroke-imaging/"/>
-        <id>https://www.em-time.com/an-improved-simultaneous-stage-wise-weak-orthogonal-matching-pursuit-algorithm-for-microwave-brain-stroke-imaging/</id>
-            <category term="Conference Paper"/>
-            <category term="Computational Electromagnetics"/>
-
-        <updated>2021-10-14T15:08:06-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Stroke is a dangerous disease with a high recurrence rate. Therefore, postoperative patients need timely monitoring of stroke conditions in their rehabilitation stage for early treatment. Recent studies in biomedical imaging have shown that strokes produce variations in the electric permittivity of brain tissues, which can be detected by microwave imaging techniques. Assuming that we have obtained the image of electromagnetic parameters in previous treatment, we can use differential imaging to detect the bleeding points when stroke recurs. However, the computational cost of traditional methods could be prohibitively large, as the bleeding points are small in the early stages of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Stroke is a dangerous disease with a high recurrence rate. Therefore, postoperative patients need timely monitoring of stroke conditions in their rehabilitation stage for early treatment. Recent studies in biomedical imaging have shown that strokes produce variations in the electric permittivity of brain tissues, which can be detected by microwave imaging techniques. Assuming that we have obtained the image of electromagnetic parameters in previous treatment, we can use differential imaging to detect the bleeding points when stroke recurs. However, the computational cost of traditional methods could be prohibitively large, as the bleeding points are small in the early stages of recurrence and the data of scatterers are sparse. Compressive sensing is a potential candidate for efficient microwave imaging algorithms. In this paper, we propose a new method for microwave differential imaging. The difference of the scattering field is related to sparse unknown scatterers by the Green's function of the inhomogeneous medium. An improved simultaneous stagewise weak orthogonal matching pursuit algorithm is then proposed to solve the problem in the framework of compressive sensing. The numerical results validate the accuracy and efficiency of the proposed method.</p>
-<p><a href="https://ieeexplore.ieee.org/document/9219505" target="_blank" rel="noopener noreferrer">Read more</a></p>
-<pre>Yahui Ding, Yifan Chen, Wending Mai, and Jun Hu</pre>
-<p> </p>
             ]]>
         </content>
     </entry>
