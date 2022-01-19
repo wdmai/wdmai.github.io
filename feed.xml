@@ -3,12 +3,157 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2021-11-13T15:12:13-05:00</updated>
+    <updated>2022-01-18T15:43:17-05:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
     <id>https://www.em-time.com</id>
 
+    <entry>
+        <title>Resume</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/resume/"/>
+        <id>https://www.em-time.com/resume/</id>
+
+        <updated>2022-01-18T15:43:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                     QUALIFICATION PROFILE Highly analytical and multifaceted professional, offering extensive background in research and development, involving method development and analysis of electromagnetics. Efficient at research activities and guiding graduate students in attaining their academic goals. Know for ability to lead and contribute to scientific and technical discussions in the group, as well as communicate scientific report to the teams in written, verbal and visual formats. Equipped with public speaking experience, as well as strong knack to develop compelling and coherent presentations for various audiences. Independent and systematic research with physical foundation, numerical tools, and broad applications. Primary contributor to two&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><u>                                     QUALIFICATION PROFILE         </u><u>        </u><u>                     </u></p>
+<p> </p>
+<p><strong><em>Highly analytical and multifaceted professional, offering extensive background in research and development, involving method development and analysis of electromagnetics.</em></strong> Efficient at research activities and guiding graduate students in attaining their academic goals. Know for ability to lead and contribute to scientific and technical discussions in the group, as well as communicate scientific report to the teams in written, verbal and visual formats. Equipped with public speaking experience, as well as strong knack to develop compelling and coherent presentations for various audiences. Independent and systematic research with physical foundation, numerical tools, and broad applications. Primary contributor to two DARPA projects and a EPSRC project.</p>
+<p> </p>
+<p><u>                                       AREAS OF EXPERTISE         </u><u>        </u><u>                     </u></p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td width="84">
+<p>Physics</p>
+</td>
+<td width="612">
+<p>Electromagnetic theory for complex materials (time-varying, dispersive, nonlinear)</p>
+<p>Knot electromagnetics combining chirality and symmetry</p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p>Computation</p>
+</td>
+<td width="612">
+<p>Discontinuous Galerkin time domain (DGTD) method, hybrid mesh, local time stepping.</p>
+<p>Wave-circuits co-simulation integrated with MNA/SPICE</p>
+<p>Inhouse CEM code integrated with preprocessing and postprocessing GUI</p>
+<p>HPC of multi-CPU and GPU parallelization, empowered by OpenMP and OpenACC</p>
+<p>FOTRAN, C++, Python, and MATLAB coding</p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p>Applications</p>
+</td>
+<td width="612">
+<p>HFSS, FEKO, CST, COMSOL simulation</p>
+<p>microwave medical imaging, metamaterials, high-speed circuits, electromagnetic compatibility, antenna, microwave devices</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><u> </u></p>
+<p><u>                                       REARCH EXPERIENCE         </u><u>        </u><u>                    </u></p>
+<p> </p>
+<p> </p>
+<p>Pennsylvania State University, State College, PA, USA</p>
+<p><strong><u>Postdoctoral Scholar</u></strong><u>                                                                         2019-now     </u></p>
+<ul>
+<li>Spearheaded a software development team of 3 postdoctoral scholars and 3 doctorate students</li>
+<li>Design a DGTD solver with various functionalities:
+<ul>
+<li>Nonlinear materials using Newton-Raphson iteration method</li>
+<li>Materials with time-varying permittivity and/or permeability</li>
+<li>Thousands of dispersive materials extracted from refractiveindex.info and curve fitted by general dispersive model</li>
+<li>Wave-circuits co-simulation integrated with MNA/SPICE</li>
+<li>Multi-CPU and GPU parallel computing using OpenMP and OpenACC</li>
+<li>Preprocessing and postprocessing GUI</li>
+</ul>
+</li>
+<li>Implement the tool for applications such as optical metamaterials and nonlinear and/or time-varying antennas</li>
+<li>Contribute mainly to 2 Defense Advanced Research Projects Agency (DARPA) projects and draft grant proposals</li>
+<li>Developed computation tools for time-varying materials:
+<ul>
+<li>Analytical tool: modified d’Alembert’ formula</li>
+<li>Numerical tool: Time-domain transfer matrix method (TTMM)</li>
+</ul>
+</li>
+<li>Proposed several novel devices using time-varying media:
+<ul>
+<li>Antireflection temporal coatings which minimize both transmission and reflection</li>
+<li>Polarizer rotates the linear polarization of wave using temporal anisotropic materials</li>
+</ul>
+</li>
+</ul>
+<p><strong><u>Visiting Scholar</u></strong><u>                                                                             2018-2019</u></p>
+<ul>
+<li>Design and implement DGTD solver for optical dispersive metamaterials contributing for a DARPA project</li>
+<li>Proposed several chiral and rotational symmetric knot structures with novel functionality:
+<ul>
+<li>Polarizer transforms a linear polarized wave into circular polarization independent with the incitation direction</li>
+<li>Polarizer rotates the incident linear polarized wave to 90° independent with the incident polarization angle</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<p>University of Electromagnetic Science and Technology, Chengdu, China</p>
+<p><strong><u>Research Associate</u></strong><u>                                                                          2015-2019</u></p>
+<ul>
+<li>Spearheaded a team of 5 people, comprised of 2 doctorate students, 2 master students, and 1 associate.</li>
+<li>Proposed an efficient DGTD method to simulate high-speed PCB circuits for electromagnetic compatibility (EMC):
+<ul>
+<li>5D algorithm using triangular prism meshes</li>
+<li>Adaptive 2D simplification according to the energy distribution</li>
+<li>Wave-circuits co-simulation integrated with MNA/SPICE</li>
+</ul>
+</li>
+<li>Led microwave imaging development for low-cost fast stroke detection using subspace optimization method (SOM)</li>
+<li>Contribute mainly to an Engineering and Physical Sciences Research Council (EPSRC) project</li>
+</ul>
+<p> </p>
+<p>Texas Instrument, Shanghai, China &amp; Dallas, TX, USA</p>
+<p><strong><u>Engineer</u></strong><u>                                                                                                 2010-2012</u></p>
+<p>Offered application technical service, technical training and chip customization cooperating with R&amp;D department</p>
+<p> </p>
+<p>Lenovo, Chengdu, China</p>
+<p><strong><u>Student Researcher</u></strong><u>                                                                                            2009</u></p>
+<p>Conducted the EMC and reliability design and test for laptops.</p>
+<p> </p>
+<p><u>                                          EDUCATION         </u><u>        </u><u>                     </u></p>
+<p> </p>
+<p><strong>Doctor of Philosophy in Electromagnetic and Microwave Techniques: 2019</strong></p>
+<p>University of Electromagnetic Science and Technology, Chengdu, China</p>
+<p> </p>
+<p><strong>Master of Science in Radio Physics: 2010</strong></p>
+<p>University of Electromagnetic Science and Technology, Chengdu, China</p>
+<p> </p>
+<p><strong>Bachelor of Science in Information Science and Technology: 2007</strong></p>
+<p>University of Electromagnetic Science and Technology, Chengdu, China</p>
+<p> </p>
+<p><u>                                                        ACTIVITIES        </u><u>        </u><u>                     </u></p>
+<p> </p>
+<p><strong>Session Chair/Co-chair</strong> of Advances in Electromagnetics of Complex Media and Metamaterials Session, at the 2021 International Applied Computational Electromagnetics Society Symposium (ACES2021).</p>
+<p><strong>Invited Talker</strong> of “Transmission of Antireflection Temporal Coatings,” in Imperial College Workshop Series: Waves in Time-Varying Media, Online, Jun. 2021.</p>
+<p><strong>Invited Talker</strong> of “Clinical Pathways for Microwave Imaging in China,” in DeMoStroke – Stroke Detection Using Microwave Technology, King’s College London, United Kingdom, Mar. 2019.</p>
+<p><strong>Author/Coauthor</strong> of 12 journal papers and 10 conference papers.</p>
+<p><strong>Reviewer</strong> of 30+ Journal papers.</p>
+<p><strong>Senior Member</strong> of IEEE, <strong>Life Member</strong> of OSA(OPTICA) and ACES.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Analytical transient analysis of temporal boundary value problems using the d’Alembert formula</title>
         <author>
@@ -216,7 +361,7 @@
         <updated>2021-10-14T15:05:27-04:00</updated>
             <summary>
                 <![CDATA[
-                    Prism DGTD simulation toolkit with GDM for pixelized metasurfaceThis simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces.How to use it:Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index number ascends along&hellip;
+                    Prism DGTD simulation toolkit with GDM for pixelized metasurface This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces. How to use it: Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -242,33 +387,6 @@
 <p>The functionality of this toolkit is currently limited. If you find any bug, or feel interested in cooperation, please contact me at: <a href="mailto:wdm@ieee.org">wdm@ieee.org</a>.</p>
 <p><a href="https://zenodo.org/record/4391329#.YWhByBrMKM9" target="_blank" rel="noopener noreferrer">Read more</a></p>
 <pre>Wending Mai, Douglas H. Werner</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Prismatic discontinuous Galerkin time domain method with an integrated generalized dispersion model for efficient optical metasurface analysis</title>
-        <author>
-            <name>Dr. Wending Mai</name>
-        </author>
-        <link href="https://www.em-time.com/prismatic-discontinuous-galerkin-time-domain-method-with-an-integrated-generalized-dispersion-model-for-efficient-optical-metasurface-analysis/"/>
-        <id>https://www.em-time.com/prismatic-discontinuous-galerkin-time-domain-method-with-an-integrated-generalized-dispersion-model-for-efficient-optical-metasurface-analysis/</id>
-            <category term="Metamaterials"/>
-            <category term="Journal Paper"/>
-            <category term="Computational Electromagnetics"/>
-
-        <updated>2021-10-14T15:07:18-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Planar photonics technology is expected to facilitate new physics and enhanced functionality for a new generation of disruptive optical devices. To analyze such planar optical metasurfaces efficiently, we propose a prismatic discontinuous Galerkin time domain (DGTD) method with a generalized dispersive material (GDM) model to conduct the full-wave electromagnetic simulation of planar photonic nanostructures. Prism-based DGTD allows for triangular prismatic space discretization, which is optimal for planar geometries. In order to achieve an accurate universal model for arbitrary dispersive materials, the GDM model is integrated within the prism-based DGTD. As an advantage of prismatic spatial discretization, the prism-based DGTD with&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Planar photonics technology is expected to facilitate new physics and enhanced functionality for a new generation of disruptive optical devices. To analyze such planar optical metasurfaces efficiently, we propose a prismatic discontinuous Galerkin time domain (DGTD) method with a generalized dispersive material (GDM) model to conduct the full-wave electromagnetic simulation of planar photonic nanostructures. Prism-based DGTD allows for triangular prismatic space discretization, which is optimal for planar geometries. In order to achieve an accurate universal model for arbitrary dispersive materials, the GDM model is integrated within the prism-based DGTD. As an advantage of prismatic spatial discretization, the prism-based DGTD with GDM has fewer elements than conventional tetrahedral methods, which in turn brings higher computational efficiency. Finally, the accuracy, convergence behavior, and efficiency improvements of the proposed algorithm is validated by several numerical examples. A simulation toolkit with the proposed algorithm has been released online, enabling users to efficiently analyze metasurfaces with customized pixel patterns.</p>
-<p><a href="https://doi.org/10.1364/OME.399414" target="_blank" rel="noopener noreferrer">Read more</a></p>
-<pre>WENDING MAI,* SAWYER D. CAMPBELL, ERIC B. WHITING, LEI KANG, PINGJUAN L. WERNER, YIFAN CHEN, AND DOUGLAS H. WERNER</pre>
-<p> </p>
-<p><a href="https://doi.org/10.1364/OME.399414" target="_blank" rel="noopener noreferrer">Read more</a></p>
             ]]>
         </content>
     </entry>
