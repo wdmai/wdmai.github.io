@@ -3,12 +3,37 @@
     <title>Electromagnetics in Time-domain</title>
     <link href="https://www.em-time.com/feed.xml" rel="self" />
     <link href="https://www.em-time.com" />
-    <updated>2022-01-18T15:43:17-05:00</updated>
+    <updated>2022-03-18T17:04:45-04:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
     <id>https://www.em-time.com</id>
 
+    <entry>
+        <title>Generalized Temporal Transfer Matrix Method: A Systematic Approach to Solving Electromagnetic Wave Scattering in Temporally Stratified Structures</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://www.em-time.com/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/"/>
+        <id>https://www.em-time.com/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2022-03-18T17:04:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Opening a new door to tailoring electromagnetic (EM) waves, temporal boundaries have attracted the attention of researchers in recent years, which have led to many intriguing applications. However, the current theoretical approaches are far from enough to handle the complicated temporal systems. In this paper, we develop universal matrix formalism, paired with a unique coordinate transformation technique. The approach can effectively deal with temporally stratified structures with complicated material anisotropy and arbitrary incidence angles. This formulation is applied to various practical systems, enabling the solution of these temporal boundary related problems in a simple and elegant fashion, and also facilitating&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Opening a new door to tailoring electromagnetic (EM) waves, temporal boundaries have attracted the attention of researchers in recent years, which have led to many intriguing applications. However, the current theoretical approaches are far from enough to handle the complicated temporal systems. In this paper, we develop universal matrix formalism, paired with a unique coordinate transformation technique. The approach can effectively deal with temporally stratified structures with complicated material anisotropy and arbitrary incidence angles. This formulation is applied to various practical systems, enabling the solution of these temporal boundary related problems in a simple and elegant fashion, and also facilitating a deep insight into the fundamental physics.</p>
+<p> </p>
+<p><a href="https://www.degruyter.com/document/doi/10.1515/nanoph-2021-0715/html" target="_blank" rel="noopener noreferrer">See more:</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resume</title>
         <author>
@@ -161,8 +186,11 @@
         </author>
         <link href="https://www.em-time.com/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula-2/"/>
         <id>https://www.em-time.com/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula-2/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
 
-        <updated>2021-11-13T15:12:13-05:00</updated>
+        <updated>2022-03-18T17:03:18-04:00</updated>
             <summary>
                 <![CDATA[
                     Temporal boundary value problems (TBVPs) provide the foundation for analyzing electromagnetic wave propagation in time-varying media. In this paper, we point out that TBVPs fall into the category of unbounded initial value problems, which have traveling wave solutions. By dividing the entire time frame into several subdomains and applying the d’Alembert formula, the transient expressions for waves propagating through temporal boundaries can be evaluated analytically. Moreover, unlike their spatial analogs, TBVPs are subject to causality. Therefore, the resulting analytical transient solutions resulting from the d’Alembert formula are unique to temporal systems. Read more...
@@ -344,49 +372,6 @@
                 <p>We proposed a new methodology to detect the neurological degenerative diseases in the early stage. These neurological degenerative diseases often occur along with some mark proteins. Instilled by golden nanoparticles, these protein cells can demonstrate optical activity because of their helical structure. In order to detect these mark proteins, we developed a numerical method to simulate the electromagnetic response upon chiral (bi-isotropic) material. The chiral proteins in human head can therefore be detected. The primitive simulation results suggest that the proposed method would be capable of carrying out in vivo detection of neurological degenerative disease using microwaves.</p>
 <p><a href="https://ieeexplore.ieee.org/abstract/document/9331591/" target="_blank" rel="noopener noreferrer">Read more</a></p>
 <pre>Wending Mai, Yifan Chen, Xiaoyou Lin</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Prism-DGTD with GDM to analyze pixelized metasurfaces</title>
-        <author>
-            <name>Dr. Wending Mai</name>
-        </author>
-        <link href="https://www.em-time.com/prism-dgtd-with-gdm-to-analyze-pixelized-metasurfaces/"/>
-        <id>https://www.em-time.com/prism-dgtd-with-gdm-to-analyze-pixelized-metasurfaces/</id>
-            <category term="Software Tools"/>
-            <category term="Metamaterials"/>
-            <category term="Computational Electromagnetics"/>
-
-        <updated>2021-10-14T15:05:27-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Prism DGTD simulation toolkit with GDM for pixelized metasurface This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces. How to use it: Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1>Prism DGTD simulation toolkit with GDM for pixelized metasurface</h1>
-<h2>This simulation package is the prism-based Discontinuous Galerkin Time Domain method with General Dispersion Model for analysis of gold pixelized metasurfaces.</h2>
-<h2>How to use it:</h2>
-<p>Open "runme.m" in MATLAB. Modify the time span and the Geo matrix "A". The geometry is a 2-fold symmetric unit cell with a period of 400 nm. The unit cell can be patterned by several gold pixels, measures 50 nm × 50 nm × 20 nm. In order to add gold padding, one could input the number of padding, and then the index numbering. The index number ascends along x- and y- axes, as depicted in below figures. <img loading="lazy" src="https://github.com/maiwending/pDGTD_GDM/blob/master/readme_fig/1.png" data-is-external-image="true"  alt="image"></p>
-<p>Modify the material GDM parameters.</p>
-<p>The MATLAB script will automatically call the pDGTD simulation toolkit, and then the postprocessing programe to plot the transmission and reflection of the metasurface. It will depict the transmission and reflection response in time-domain and frequency-domain (400 nm – 2000 nm). Currently, it only gives results upon x-polarized excitation. <img loading="lazy" src="https://github.com/maiwending/pDGTD_GDM/blob/master/readme_fig/2.png" data-is-external-image="true"  alt="image"></p>
-<h2>Computational efficiency comparison:</h2>
-<p>For the default example, the CPU times of different method are listed below:</p>
-<p>pDGTD Default mode: 2000 s.</p>
-<p>pDGTD RELEASE mode: 180 s.</p>
-<p>CST Studio Software: 662 s.</p>
-<h2>Dependencies:</h2>
-<p>In the latest version, the MKL dependency has been removed.</p>
-<h2>Reference:</h2>
-<p>Wending Mai, Sawyer D. Campbell, Eric B. Whiting, Lei Kang, Pingjuan L. Werner, Yifan Chen, and Douglas H. Werner, "Prismatic discontinuous Galerkin time domain method with an integrated generalized dispersion model for efficient optical metasurface analysis," Opt. Mater. Express 10, 2542-2559 (2020)</p>
-<p>Please cite if you find this simulation toolkit useful.</p>
-<h2>Contact:</h2>
-<p>The webpage of our lab: <a href="http://cearl.ee.psu.edu/">http://cearl.ee.psu.edu/</a></p>
-<p>The functionality of this toolkit is currently limited. If you find any bug, or feel interested in cooperation, please contact me at: <a href="mailto:wdm@ieee.org">wdm@ieee.org</a>.</p>
-<p><a href="https://zenodo.org/record/4391329#.YWhByBrMKM9" target="_blank" rel="noopener noreferrer">Read more</a></p>
-<pre>Wending Mai, Douglas H. Werner</pre>
             ]]>
         </content>
     </entry>
